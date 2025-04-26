@@ -101,7 +101,7 @@ int main() {
             std::cin >> variables[ch];
         }
     }
-
+    //fhtdhtd
     // Замена переменных их значениями
     std::string processedExpression;
     for (char ch : expression) {
