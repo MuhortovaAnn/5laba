@@ -100,7 +100,7 @@ int main() {
             std::cout << "Введите значение для " << ch << ": ";
             std::cin >> variables[ch];
         }
-    }
+    }//hhirri
     //fhtdhtd
     // Замена переменных их значениями
     std::string processedExpression;
